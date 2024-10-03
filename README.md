@@ -1,4 +1,4 @@
-# RazorEngine.NetCore
+# RazorEngine.NetStandard
 
 [![Join the chat at https://gitter.im/Antaris/RazorEngine](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Antaris/RazorEngine?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -28,7 +28,7 @@ Release Branch (`releases`)
 
 First install the nuget package
 
-	Install-Package RazorEngine.NetCore
+	Install-Package RazorEngine.NetStandard
 
 A templating engine built on Microsoft's Razor parsing engine, RazorEngine allows you to use Razor syntax to build dynamic templates.
 You can find an introduction [here](http://www.asp.net/web-pages/overview/getting-started/introducing-razor-syntax-%28c%29).

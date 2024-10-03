@@ -7,7 +7,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation" Version="3.1.2"/>
-    <ProjectReference Include="..\RazorEngine.NetCore\RazorEngine.NetCore.csproj" />
+    <ProjectReference Include="..\RazorEngine.NetStandard\RazorEngine.NetStandard.csproj" />
   </ItemGroup>
 
 </Project>
